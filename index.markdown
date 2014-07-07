@@ -1,0 +1,44 @@
+---
+layout: default
+---
+## Welcome to PrankDNS
+
+### What
+
+PrankDNS is an [OpenDNS] style open DNS resolver which hijacks NXDOMAIN
+responses instead returning prank websites.
+
+You can play pranks on your friends by setting their DNS server to
+PrankDNS. Then whenever they try to go to a domain that doesn't exist,
+they'll instead arrive at a suitable prank website.
+
+### Where
+
+The websites currently served by PrankDNS are:
+
+ * [Leekspin]
+ * [Chicken on a Raft][ChickenOnARaft]
+
+Also see the [NSFW version][spin.wang]!
+
+### How
+
+Just configure your friend's DNS server to the following addresses:
+
+|---------------+--------------------|
+|      IPv4     |        IPv6        |
+|---------------|--------------------|
+| 50.116.13.220 | 2600:3c01::31:d00e |
+|---------------+--------------------|
+
+### Contribute
+
+I'm [@eatnumber1]{: .user-mention } and I'd love some suggestions for
+additional suitable prank websites to add to the rotation, or any other
+suggestions!
+
+[OpenDNS]: http://opendns.com
+[Leekspin]: http://leekspin.com
+[ChickenOnARaft]: http://chickenonaraft.com
+[spin.wang]: http://spin.wang
+[@eatnumber1]: mailto:russ@eatnumber1.com
