@@ -1,0 +1,23 @@
+#!/bin/zsh
+emulate -L zsh
+setopt err_exit warn_create_global no_unset
+
+typeset -a domains
+
+if (( $+HTTP_HOST )) && [[ $HTTP_HOST == pick.spin.wang ]]; then
+	domains=(
+		http://meatspin.com
+	)
+else
+	domains=(
+		http://chickenonaraft.com
+		http://leekspin.com
+	)
+fi
+
+integer idx=$(( RANDOM % ${#domains} + 1 ))
+
+echo "Status: 302 Found"
+echo "Location: ${domains[$idx]}"
+echo
+echo
