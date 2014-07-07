@@ -4,7 +4,7 @@ setopt err_exit warn_create_global no_unset
 
 typeset -a domains
 
-if (( $+PATH_INFO )) && [[ $PATH_INFO == /nsfw ]]; then
+if (( $+HTTP_HOST )) && [[ $HTTP_HOST == pick.spin.wang ]]; then
 	domains=(
 		http://meatspin.com
 	)
