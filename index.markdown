@@ -17,7 +17,9 @@ The websites currently served by PrankDNS are:
  * [Leekspin]
  * [Chicken on a Raft][ChickenOnARaft]
 
+{% comment %}
 Also see the [NSFW version][spin.wang]!
+{% endcomment %}
 
 ## How
 
