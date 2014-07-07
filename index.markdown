@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-## Welcome to PrankDNS
-
-### What
+## What
 
 PrankDNS is an [OpenDNS] style open DNS resolver which hijacks NXDOMAIN
 responses instead returning prank websites.
@@ -12,7 +10,7 @@ You can play pranks on your friends by setting their DNS server to
 PrankDNS. Then whenever they try to go to a domain that doesn't exist,
 they'll instead arrive at a suitable prank website.
 
-### Where
+## Where
 
 The websites currently served by PrankDNS are:
 
@@ -21,7 +19,7 @@ The websites currently served by PrankDNS are:
 
 Also see the [NSFW version][spin.wang]!
 
-### How
+## How
 
 Just configure your friend's DNS server to the following addresses:
 
@@ -31,7 +29,7 @@ Just configure your friend's DNS server to the following addresses:
 | 50.116.13.220 | 2600:3c01::31:d00e |
 |---------------+--------------------|
 
-### Contribute
+## Contribute
 
 I'm [@eatnumber1]{: .user-mention } and I'd love to hear what you think,
 especially if you have suggestions for additional suitable prank websites to
