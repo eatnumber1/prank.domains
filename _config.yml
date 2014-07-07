@@ -13,3 +13,6 @@ permalink: pretty
 #analytics_tracking_id: UA-10349264-3
 
 analytics_tracking_id: UA-10349264-4
+
+ga_displayfeatures: true
+ga_attribution: true
