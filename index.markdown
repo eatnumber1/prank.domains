@@ -39,4 +39,4 @@ add to the rotation.
 [Leekspin]: http://leekspin.com
 [ChickenOnARaft]: http://chickenonaraft.com
 [spin.wang]: http://spin.wang
-[@eatnumber1]: mailto:russ@eatnumber1.com
+[@eatnumber1]: http://rus.har.mn
