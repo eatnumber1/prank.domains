@@ -33,9 +33,8 @@ Just configure your friend's DNS server to the following addresses:
 
 ## Contribute
 
-I'm [@eatnumber1]{: .user-mention } and I'd love to hear what you think,
-especially if you have suggestions for additional suitable prank websites to
-add to the rotation.
+I'm [@eatnumber1] and I'd love to hear what you think, especially if you have
+suggestions for additional suitable prank websites to add to the rotation.
 
 [OpenDNS]: http://opendns.com
 [Leekspin]: http://leekspin.com
