@@ -3,7 +3,7 @@ layout: default
 ---
 ## What
 
-PrankDNS is an [OpenDNS] style open DNS resolver which hijacks NXDOMAIN
+PrankDNS is an [OpenDNS] style open DNS resolver which hijacks [NXDOMAIN]
 responses instead returning prank websites.
 
 You can play pranks on your friends by setting their DNS server to
@@ -43,3 +43,4 @@ suggestions for additional suitable prank websites to add to the rotation.
 [ChickenOnARaft]: http://chickenonaraft.com
 [spin.wang]: http://spin.wang
 [@eatnumber1]: http://rus.har.mn
+[NXDOMAIN]: http://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/
