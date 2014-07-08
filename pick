@@ -7,11 +7,13 @@ typeset -a domains
 if (( $+HTTP_HOST )) && [[ $HTTP_HOST == pick.spin.wang ]]; then
 	domains=(
 		http://meatspin.com
+		http://goat.sexy
 	)
 else
 	domains=(
 		http://chickenonaraft.com
 		http://leekspin.com
+		http://zombo.com
 	)
 fi
 
