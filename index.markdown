@@ -31,7 +31,7 @@ Just configure your friend's DNS server to the following addresses:
 | 50.116.13.220 | 2600:3c01::31:d00e |
 |---------------+--------------------|
 
-For convenience, the domain `ns.prank.domains` points at these addresses.
+For convenience, the domain `ns.{{ site.domain }}` points at these addresses.
 
 ## Contribute
 
