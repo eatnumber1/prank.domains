@@ -3,23 +3,21 @@ layout: default
 ---
 ## What
 
-PrankDNS is an [OpenDNS] style open DNS resolver which hijacks [NXDOMAIN]
-responses instead returning prank websites.
+{{ site.title }} is an [OpenDNS] style open DNS resolver which hijacks
+[NXDOMAIN] responses instead returning prank websites.
 
 You can play pranks on your friends by setting their DNS server to
-PrankDNS. Then whenever they try to go to a domain that doesn't exist,
+{{ site.title }}. Then whenever they try to go to a domain that doesn't exist,
 they'll instead arrive at a suitable prank website.
 
 ## Where
 
-The websites currently served by PrankDNS are:
+The websites currently served by {{ site.title }} are:
 
  * [Leekspin]
  * [Chicken on a Raft][ChickenOnARaft]
 
-{% comment %}
 Also see the [NSFW version][spin.wang]!
-{% endcomment %}
 
 ## How
 
