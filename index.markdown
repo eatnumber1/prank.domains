@@ -16,6 +16,7 @@ The websites currently served by {{ site.title }} are:
 
  * [Leekspin]
  * [Chicken on a Raft][ChickenOnARaft]
+ * [Zombo Com][ZomboCom]
 
 Also see the [NSFW version][spin.wang]!
 
@@ -43,3 +44,4 @@ suggestions for additional suitable prank websites to add to the rotation.
 [spin.wang]: http://spin.wang
 [@eatnumber1]: http://rus.har.mn
 [NXDOMAIN]: http://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/
+[ZomboCom]: http://zombo.com
