@@ -1,5 +1,5 @@
 # Site settings
-title: PrankDNS
+title: PrankDomains
 description: DNS hijack your friends
 domain: prank.domains
 # TODO: Figure out how not to need this.
