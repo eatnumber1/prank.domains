@@ -29,7 +29,6 @@ Just configure your friend's DNS server to the following addresses:
 |      IPv4     |        IPv6        |
 |:-------------:|:------------------:|
 | 50.116.13.220 | 2600:3c01::31:d00e |
-| 129.21.49.55  |                    |
 |---------------+--------------------|
 
 For convenience, the domain `ns.{{ site.domain }}` points at these addresses.
